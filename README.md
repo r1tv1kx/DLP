@@ -470,10 +470,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 | | |
 |---|---|
-| **Name** | _Your Name Here_ |
+| **Name** | Ritvik Singh |
 | **GitHub** | [github.com/r1tv1kx](https://github.com/r1tv1kx) |
-| **LinkedIn** | _Your LinkedIn URL Here_ |
-| **Portfolio** | _Your Portfolio URL Here_ |
+| **LinkedIn** | [linkedin.com/in/ritviksingh14](https://www.linkedin.com/in/ritviksingh14/) |
+| **Portfolio** | [ritviksingh.in](https://ritviksingh.in) |
 
 ---
 
